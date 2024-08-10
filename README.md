@@ -3,7 +3,7 @@ Simple Project on git to show commit , push and pull mechanism of Git
 
 -> Login to Amazon AWS and create your aws account on AWS
 -> After Login to aws Go to the search bar and search for EC2
--> EC2 stands for Elastic compute cloud which helps is creating your virtual machine as per your requirement.
+-> EC2 stands for Elastic compute cloud which helps us set up remote server on our local machine
 -> In EC2 go to instance and then launch the Instance 
 -> Give the name of your instance and the select amazon linux as your OS
 -> Select Instance type as t2.micro which is free tier eligible
